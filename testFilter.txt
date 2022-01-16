@@ -2,3 +2,5 @@ green-japan.com##.sdw2.relative-top.js-navigation-area > .js-link-to-app.link-to
 jp.indeed.com###jobsearch-JapanAppDownloadPromo
 gigazine.net##.sbn
 lifehacker.jp##.block_post__3b-uC.block_lBlock_Primary__E7bx7 > div > .displayhandler_sm__2dZAq
+japanese.engadget.com###module-engadget-deeplink-top-ad > div > div.Bgc\(engadgetBlack\).W\(100vw\).D\(f\).Ai\(st\).Pos\(r\).Z\(1\).Jc\(c\).Py\(25px\).M\(MarginCenter\)
+japanese.engadget.com###module-engadget-deeplink-post > div > div > div.Bxz\(bb\).Pos\(f\).Start\(0\).B\(0\).D\(n\).D\(f\)--sm.Ai\(c\).Jc\(sa\).Bgc\(\#fff\).W\(100vw\).P\(5px\).Z\(9001\):last-child

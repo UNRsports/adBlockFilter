@@ -4,3 +4,5 @@ gigazine.net##.sbn
 lifehacker.jp##.block_post__3b-uC.block_lBlock_Primary__E7bx7 > div > .displayhandler_sm__2dZAq
 japanese.engadget.com###module-engadget-deeplink-top-ad > div > div.Bgc\(engadgetBlack\).W\(100vw\).D\(f\).Ai\(st\).Pos\(r\).Z\(1\).Jc\(c\).Py\(25px\).M\(MarginCenter\)
 japanese.engadget.com###module-engadget-deeplink-post > div > div > div.Bxz\(bb\).Pos\(f\).Start\(0\).B\(0\).D\(n\).D\(f\)--sm.Ai\(c\).Jc\(sa\).Bgc\(\#fff\).W\(100vw\).P\(5px\).Z\(9001\):last-child
+tenshoku.mynavi.jp##div.scoutMailBox__item-terms.scoutMailBox__item > .scoutMailBox__itemWrap > .scoutMailBox__itemSub > .scoutMailBox__scoutIcon > [src]
+tenshoku.mynavi.jp##div.scoutMailBox__item-hope.scoutMailBox__item > .scoutMailBox__itemWrap > .scoutMailBox__itemSub > .scoutMailBox__scoutIcon > [src]
